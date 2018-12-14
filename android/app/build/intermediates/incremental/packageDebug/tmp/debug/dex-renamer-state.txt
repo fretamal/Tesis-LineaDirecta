@@ -1,0 +1,4 @@
+#Wed Dec 12 12:36:21 CLST 2018
+base.0=/Users/fernandaretamal/repos/cl_i1_lineadirecta/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
